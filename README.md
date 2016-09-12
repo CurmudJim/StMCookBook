@@ -1,24 +1,5 @@
-# README
+# St. Marys Cook Book
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a Cook Book site for St Mary's Church.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+By [James Garvey](http://jimbarrel.tumblr.com/)

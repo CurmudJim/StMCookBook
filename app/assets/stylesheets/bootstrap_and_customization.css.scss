@@ -1,0 +1,24 @@
+@import 'https://fonts.googleapis.com/css?family=Arvo:400,700';
+
+$font-family-base:		Arvo;
+
+$body-bg:		#2980b9;
+$navbar-default-bg:		#ecf0f1;
+$navbar-default-brand-color:	#2980b9;
+$navbar-default-link-color:		#3498db;
+$jumbotron-bg:		#ecf0f1;
+$jumbotron-color:		#2980b9;
+
+$btn-default-bg:		#ecf0f1;
+$btn-default-color:		#7f8c8d;
+$btn-primary-bg:		#7f8c8d;
+$btn-primary-color:		#ecf0f1;
+@import 'bootstrap';
+
+.center {
+	text-align:		center;
+}
+
+.navbar-brand {
+	font-weight:		bold;
+}

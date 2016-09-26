@@ -85,6 +85,5 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   # Required for Heroku
-  # Note set to actual host
-  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
+  config.action_mailer.default_url_options = { host: 'https://stmaryscookbook.herokuapp.com/' }
 end
